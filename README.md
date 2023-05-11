@@ -1,7 +1,7 @@
 ### Bello there <img height="30" src="https://user-images.githubusercontent.com/106325574/234936098-673666f4-a8ab-4666-9945-8f95ca0ac64d.png"/>
 
 - 🔭 I’m currently working on personal projects
-- 🌱 Learning Python
+- 🌱 Learning Python, JavaScript
 - 💬 Ask me about: Anything. Literally! If I know the answers I am gladly to help. 
 - 📫 How to reach me:
 <a href="https://www.linkedin.com/in/lthmai/"><img height="30" src="https://user-images.githubusercontent.com/106325574/234954364-9bbae4a5-e5c9-4729-9d40-c4904ea3afcf.png"/></a> 
